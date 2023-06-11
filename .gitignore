@@ -37,4 +37,5 @@ out/
 .vscode/
 
 ### docker compose data ###
-**/src/main/resources/data/**
+data/
+.jqwik-database
