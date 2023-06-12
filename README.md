@@ -2,6 +2,13 @@
 
 -----------------
 
+## 분석/설계
+
+- Event Storming
+    - https://miro.com/app/board/uXjVM_mSCEw=/
+
+-----------------
+
 ## Requirement
 
 ### 도서 관리 시스템
