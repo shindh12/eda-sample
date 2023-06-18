@@ -1,6 +1,6 @@
 package com.study.eda.library.domain.rental;
 
-import static com.study.eda.library.domain.FixtureMonkeySupport.*;
+import static com.study.eda.library.FixtureMonkeySupport.*;
 
 import java.time.LocalDate;
 
@@ -16,5 +16,5 @@ public enum RentalFixture {
 			.set("rentalDate", rentalDate)
 			.sample();
 	}
-	
+
 }

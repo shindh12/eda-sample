@@ -1,6 +1,6 @@
 package com.study.eda.library.domain.book;
 
-import static com.study.eda.library.domain.FixtureMonkeySupport.*;
+import static com.study.eda.library.FixtureMonkeySupport.*;
 
 import java.util.List;
 

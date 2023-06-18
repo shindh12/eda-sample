@@ -1,4 +1,4 @@
-package com.study.eda.library.domain;
+package com.study.eda.library;
 
 import com.navercorp.fixturemonkey.FixtureMonkey;
 import com.navercorp.fixturemonkey.api.introspector.ConstructorPropertiesArbitraryIntrospector;
