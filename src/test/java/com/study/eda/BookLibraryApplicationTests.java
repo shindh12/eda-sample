@@ -1,4 +1,4 @@
-package com.study.eda.library;
+package com.study.eda;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
